@@ -1,0 +1,15 @@
+baseurl = "http://angusx.github.io/"
+languageCode = "zh-cn"
+title = "hsiug notebook"
+
+
+contentdir= "content"
+layoutdir= "layouts"
+publishdir= "public"
+canonifyurls= true
+
+[params]
+  Subtitle = "将血肉化为黄金"
+  GithubID = "angusx"
+
+
